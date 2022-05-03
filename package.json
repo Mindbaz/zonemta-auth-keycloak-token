@@ -1,7 +1,7 @@
 {
-    "name": "@mindbaz/zonemta-auth-keycloak",
+    "name": "@mindbaz/zonemta-auth-keycloak-token",
     "version": "0.0.0",
-    "description": "Authentication with Keycloak for ZoneMTA",
+    "description": "Authentication with Keycloak token for ZoneMTA",
     "main": "index.js",
     "author": "Valentin Henon <vhenon@mindbaz.com>",
     "license": "GPL-3.0-or-later",
@@ -23,14 +23,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Mindbaz/zonemta-auth-keycloak.git"
+        "url": "git+https://github.com/Mindbaz/zonemta-auth-keycloak-token.git"
     },
     "keywords": [
         "zonemta",
         "keycloak"
     ],
     "bugs": {
-        "url": "https://github.com/Mindbaz/zonemta-auth-keycloak/issues"
+        "url": "https://github.com/Mindbaz/zonemta-auth-keycloak-token/issues"
     },
-    "homepage": "https://github.com/Mindbaz/zonemta-auth-keycloak#readme"
+    "homepage": "https://github.com/Mindbaz/zonemta-auth-keycloak-token#readme"
 }

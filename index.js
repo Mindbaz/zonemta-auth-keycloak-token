@@ -29,7 +29,7 @@
 
 const request = require ( 'request' );
 
-module.exports.title = 'Keycloak Authentication';
+module.exports.title = 'Keycloak token Authentication';
 module.exports.init = (app, done) => {
     // Listen for AUTH command
     
